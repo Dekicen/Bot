@@ -1,18 +1,17 @@
 const fs = require('fs')
 
-global.namabot = "𝙓𝘿"
-global.namaowner = "𝙁𝙄𝙆𝙊𝙓𝘿"
-global.footer_text = "© 𝙓𝘿" + namabot
+global.namabot = "BOT"
+global.namaowner = "DEXO`XD"
+global.footer_text = "© BOT" + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62895630468565']
+global.owner = ['62895397537722']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `Qris All Pay Kirim Bukti Transaksi
 *_PAYMENT_*
-*💶DANA: 0895630468565*
-*💵GOPAY: 083110933360*
-*💴PULSA: 083110933360*
+*💶DANA: 083820597761*
+*💴PULSA: 083820597761*
 
 *📌LINK GRUP*
 https://chat.whatsapp.com/G6xF4TgR2LwGeMVOEjudjz
@@ -105,6 +104,6 @@ module.exports.helpMenu = (pushname) =>{
 
 📝 *NOTE*: 
 DI LARANG SPAM
-MAU SEWA BOT? HUBUNGI 62895630468565 KETIK OWNER DI CHAT BOT
+MAU SEWA BOT? HUBUNGI 62895397537722 KETIK OWNER DI CHAT BOT
 `
 }
